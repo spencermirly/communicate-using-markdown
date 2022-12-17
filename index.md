@@ -18,3 +18,6 @@
         }
     }
 ```
+- [ ] Finish CS471 Assignments
+- [ ] Finish Sprint 4
+- [ ] Finish Christmas Shopping
